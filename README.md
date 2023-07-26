@@ -1,7 +1,7 @@
 ### Hi There 👋, Welcome to my GitHub!
 
 ### I'm currently...
-- A Software Engineer Intern at [Coinbase 🪙](https://www.coinbase.com/), where I am creating call-to-actions to asset buy/sell/trade flow on mobile app to aggressively push users to make transactions.
+- A Software Engineer Intern at [Coinbase 🚀](https://www.coinbase.com/), where I am creating call-to-actions to asset buy/sell/trade flow on mobile app to aggressively push users to make transactions.
 - The Vice President of Infrastructure at [CodeLab 🛠](https://www.codelabdavis.com/), where I am developing an internal tool to allow the board to directly interact with our associate database and creating a framework of example code snippets for associates to improve code quality of cohort’s projects.
 
 ### I was previously...
